@@ -311,10 +311,6 @@ body {
   font-weight: 400;
   font-size: 14px;
   line-height: 157%;
-  /* identical to box height, or 22px */
-
-  /* Text/Primary */
-
   color: #111827;
 }
 .current-transactions-box {
@@ -334,11 +330,6 @@ body {
     font-size: 14px;
     line-height: 157%;
     margin: 5px 0;
-    /* identical to box height, or 22px */
-    
-    
-    /* Text/Primary */
-    
     color: #111827;
 }
 .last{
