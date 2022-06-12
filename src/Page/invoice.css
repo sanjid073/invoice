@@ -337,3 +337,14 @@ body {
     border-bottom: 1px solid black;
  
 }
+@media only screen and (max-width: 600px) {
+     body{
+         width: 100%;
+         margin: auto;
+     }
+     .invoice-body{
+         width: 270%;
+         height: 100%;
+         margin: auto;
+     }
+  }
