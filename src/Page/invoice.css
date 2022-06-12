@@ -339,12 +339,13 @@ body {
 }
 @media only screen and (max-width: 600px) {
      body{
-         width: 100%;
+         width: 108%;
          margin: auto;
+         
      }
      .invoice-body{
          width: 270%;
-         height: 100%;
+         height: 200%;
          margin: auto;
      }
   }
